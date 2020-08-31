@@ -16,4 +16,4 @@ Instead of continuing to wait, we've instead decided to help facilitate it. Here
 
 So... who are we? What do we want?  We are women who want to help and support other women.
 
-Want to write with us?  Send us an email [info@womennow.dev] (mailto:info@womennow.dev)
+Want to write with us?  Send us an email [info@womennow.dev](mailto:info@womennow.dev)
