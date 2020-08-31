@@ -9,11 +9,8 @@ author: the women of servicenow
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "about"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: ""
+  About: "about"
+  Resources: "resources"
 
 # --- Logo --- #
 
