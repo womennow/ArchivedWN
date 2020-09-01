@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Adding Annotations for Forms in the Service Portal
