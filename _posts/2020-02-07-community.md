@@ -4,7 +4,7 @@ title: Community!
 tags: []
 ---
 
-When I first began working in ServiceNow in 2012, one of the things that drew me to the platform was the [Community forums](https://community.servicenow.com/community)</a>. There were (and still are!) an amazing resource. Like all things the community has evolved over the years, and it really took off for me when I found the Slack workspace.
+When I first began working in ServiceNow in 2012, one of the things that drew me to the platform was the [Community forums](https://community.servicenow.com/community). There were (and still are!) an amazing resource. Like all things the community has evolved over the years, and it really took off for me when I found the Slack workspace.
 
 [SNDevs](https://sndevs.com/) has been one of the best resources I've found. It's a workspace run by the community, with almost seven thousand ServiceNow developers, admins, recruiters, users and any other title you could think of all in one place. It's an incredibly active workspace. Both the community and SNDevs provide a space where you can find answers to your questions, ask for help with troubleshooting scripts, finding answers to requirements your clients may have come up with, or talk through the difficulties we all face.  SNDevs, though, provides a real time community that‚Äôs expanded beyond just the difficulties we face in our day to day work.&nbsp; With SNDevs you can also join the book club, talk about your favorite recipes, or join in the chaos that is #random. Without a doubt it's the hopping place in the ServiceNow space.
 
