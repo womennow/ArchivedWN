@@ -25,6 +25,14 @@ round-avatar: true
 # then specify the following parameter
 #title-img: /path/to/image
 
+# --- List of Authors ---#
+paige:
+  name: Paige
+  email: paige.sndev@gmail.com
+  web: https://github.com/paigesndev
+mgopw:
+  name: Gabi
+  web: https://github.com/Ditziv
 
 # --- Footer social media links --- #
 
