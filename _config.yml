@@ -23,17 +23,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
-
-# --- List of Authors ---#
-paige:
-  name: Paige
-  email: paige.sndev@gmail.com
-  web: https://github.com/paigesndev
-mgopw:
-  name: Gabi
-  web: https://github.com/Ditziv
-
+# title-img: /path/to/image
 # --- Footer social media links --- #
 
 # Select the social network links that you want to show in the footer.
@@ -88,16 +78,16 @@ excerpt_length: 75
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+navbar-col: "#EDC7B7"
+navbar-text-col: "#AC3B61"
+navbar-border-col: "#123C69"
+page-col: "#EEE2DC"
+text-col: "#AC3B61"
+link-col: "#123C69"
+hover-col: "#123C69"
+footer-col: "#EDC7B7"
+footer-text-col: "#AC3B61"
+footer-link-col: "#123C69"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour

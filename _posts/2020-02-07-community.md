@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Community!
-author: Paige
+author: paige
 tags: []
 ---
 

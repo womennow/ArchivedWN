@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reusable iframe Widget
-author: Paige
+author: paige
 tags: [service portal, widget]
 ---
 
