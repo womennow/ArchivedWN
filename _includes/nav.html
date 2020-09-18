@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-md navbar-light fixed-top navbar-custom {% if page.nav-short %}top-nav-short-permanent{% endif %}">
 
   {%- if site.title-img -%}
-    <a class="navbar-brand navbar-brand-logo" href="{{ '' | absolute_url }}"><img alt="{{ site.title }} Logo" src="{{ site.title-img }}"/></a>
+    <a class="navbar-brand navbar-brand-logo" href="{{ '' | absolute_url }}"><img alt="{{ site.title }}" Logo" src="{{ site.title-img }}"/></a>
   {%- elsif site.title -%}
     <a class="navbar-brand" href="{{ '' | absolute_url }}">Home</a>
   {%- endif -%}
@@ -31,6 +31,10 @@
         {%- endif -%}
       {%- endfor -%}
     </ul>
+  </div>
+  
+  <div class="avatar-container">
+    {{ site.title }}
   </div>
 
   <!--{% if site.avatar and (layout.show-avatar or page.show-avatar) %}
