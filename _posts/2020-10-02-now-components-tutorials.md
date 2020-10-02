@@ -11,7 +11,7 @@ If you’ve never heard of Now Components or the Now Experience, start with this
 
 > The Now Experience Design System and UI Framework have been created to provide a clean, modern way for Developers and Designers to craft cohesive, consumer-grade user experiences on the Now Platform. It is built using the latest web standards, including Web Components, and is designed to be enduring and backward compatible.
 
-Also see the last video resource linked on this page where Chuck Tomasi does a brief but good explanation of the rationale behind the Now Experience Framework. 
+Also see the last video resource linked at the bottom of this page. In that video, Chuck Tomasi does a brief but good explanation of the rationale behind the Now Experience Framework. 
 
 When you’re ready to start developing… 
 
@@ -20,7 +20,7 @@ This community article is a great starter. It walks you through getting your env
 *   [Article #11 - Fast Track to your first "Now Experience UI Framework Component"](https://community.servicenow.com/community?id=community_article&sys_id=9cd7b58adbfe94d0b1b102d5ca961952)
 
 
-This CreatorConWorkshop is a good walkthrough which includes some best practice tips and useful explanations of foundational concepts.
+This CreatorCon Workshop (from Knowledge 2020) is a good walkthrough which includes best practice tips and useful explanations of foundational concepts.
 
 
 *   CCW2905 - Getting started with the Now Experience UI Framework from Knowledge 20  
