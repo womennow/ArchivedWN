@@ -47,4 +47,4 @@ Finally, this TechNow episode runs through another example of component building
 
 Although, at about the 25:45 marks, Chuck Tomasi talks about the reasoning behind the Now Experience framework..
 
-*   [TechNow Ep 78 | Building Now Experience Components](https://www.youtube.com/watch?v=CdFnaYehZPQ)
+*   [TechNow Ep 78 - Building Now Experience Components](https://www.youtube.com/watch?v=CdFnaYehZPQ)
