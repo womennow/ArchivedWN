@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hacktober
+title: Hacktoberfest
 author: nia
 tags: [hacktoberfest, now components]
 ---
