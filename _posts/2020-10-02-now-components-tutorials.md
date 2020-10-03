@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Reusable iframe Widget
+title: Hacktober
 author: nia
 tags: [hacktoberfest, now components]
 ---
 
-Whether you are looking to participate in [Hacktoberfest 2020](https://developer.servicenow.com/blog.do?p=/post/hacktoberfest-2020/) or just wanted to learn how to build Now Components, the following is a collected list of of resources to help you get started…
+Every October [Digital Ocean hosts Hacktoberfest](https://hacktoberfest.digitalocean.com), a celebration of Open Source.  This is an opprotunity to learn and explore open source projects, win a shirt, and just feel good about completing something.  This year, as in the years past, the [Developer Program team of ServiceNow](https://developer.servicenow.com/blog.do) are hosting some ServiceNow specific repos.  There are two primary repos, [Spokes](https://github.com/ServiceNowDevProgram/SpoketoberfestResources/blob/master/GettingStarted.md) and Components.  
+
+Whether you are looking to participate in [Hacktoberfest 2020](https://developer.servicenow.com/blog.do?p=/post/hacktoberfest-2020/) or just want to learn how to build Now Components, the following is a collected list of of resources to help you get started…
 
 If you’ve never heard of Now Components or the Now Experience, start with this introductory post on the ServiceNow Developer Blog: [Now Experience](https://developer.servicenow.com/blog.do?p=/post/now-experience/)
 
